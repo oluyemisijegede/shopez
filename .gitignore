@@ -1,0 +1,25 @@
+# --- Terraform ---
+**/.terraform/
+*.tfstate
+*.tfstate.*
+*.tfstate.backup
+.terraform.lock.hcl
+*.tfvars
+*.tfvars.json
+crash.log
+crash.*.log
+override.tf
+override.tf.json
+*_override.tf
+*_override.tf.json
+.terraformrc
+terraform.rc
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+.env
+
+# --- OS ---
+.DS_Store
+EOF
