@@ -3,7 +3,7 @@
 > A full-featured, colorful e-commerce web app built with Node.js, Express, and Handlebars. No database required — runs entirely in-memory out of the box.
 
 ---
-## Starting the push again
+## Starting the push yet again
 ## 📋 Table of Contents
 
 1. [Prerequisites](#-prerequisites)
